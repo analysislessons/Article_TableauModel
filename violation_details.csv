@@ -1,0 +1,9 @@
+id,description,penalty_points,fine_amount
+1,Speeding up to 20 km/h,2,100
+2,Running a red light,6,500
+3,Not wearing seatbelts,2,100
+4,Using phone while driving,5,200
+5,Driving under influence,10,1000
+6,Illegal parking,1,50
+7,Reckless driving,8,400
+8,Expired registration,0,150
